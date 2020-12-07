@@ -1,3 +1,5 @@
+Step by Step Guide
+
 # How to use
 
 - you will need to have a browser
